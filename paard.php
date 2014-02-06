@@ -15,6 +15,10 @@ class paard () {
   function getPaard() {
     return $this->_paard;
   }
+    
+    function mijnPaard() {
+        return 'PAARD';
+    }
 }
 
 ?>
