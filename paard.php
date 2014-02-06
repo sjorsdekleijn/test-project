@@ -1,6 +1,6 @@
 <?php
 
-class paard () {
+class paard {
   
   function __construct( $bEcho = FALSE ) {
     if ($bEcho === TRUE) {
@@ -29,6 +29,11 @@ class paard () {
     function errorfunction()
     {
         return 'ERROR';
+    }
+    
+    function mijnBranche()
+    {
+        return 'BRANCHE';
     }
 }
 
