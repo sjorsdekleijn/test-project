@@ -8,4 +8,6 @@
   echo "frikandel";
 
   echo "dit is een andere wijziging op het bestand";
+
+ Een dikke bug
 ?>
