@@ -13,6 +13,8 @@
   
   /* PAARDEN TRUUK */
   $paard = new paard();
+  $paard->setPaard("FRANK");
+  echo $paard->getPaard();
 
 ?>
   </body>
