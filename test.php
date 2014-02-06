@@ -3,7 +3,7 @@
   echo "test";
 
   /** PROBEER HET ZELF MAAR EENS **/
-  echo "paard";
+  echo "paard";// zie showpaard.php
 
   echo "frikandel";
 
