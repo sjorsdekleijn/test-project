@@ -16,6 +16,8 @@
   $paard->setPaard("FRANK");
   echo $paard->getPaard();
   echo $paard->sjorsZijnPaard();
+
+echo 'DIT IS EEN TOEVOEGING///';
 ?>
   </body>
 </html>
