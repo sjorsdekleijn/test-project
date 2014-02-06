@@ -17,8 +17,4 @@ class paard () {
   }
 }
 
-/* PAARDEN TRUUK */
-$paard = new paard( TRUE );
-$paard->setPaard( "FRANS" );
-echo $paard->getPaard();
 ?>
