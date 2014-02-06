@@ -6,4 +6,6 @@
   echo "paard";
 
   echo "frikandel";
+  
+  echo "dit is een wijziging op het bestand";
 ?>
