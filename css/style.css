@@ -17,3 +17,13 @@ body {
   font-family: "Arial";
   font-size: 1em;
 }
+a {
+  color: green;
+}
+p {
+  line-height: 1000px;
+}
+
+b {
+    font-weight: normal;
+}

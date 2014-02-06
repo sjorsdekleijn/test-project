@@ -15,7 +15,7 @@
   $paard = new paard();
   $paard->setPaard("FRANK");
   echo $paard->getPaard();
-
+  echo $paard->sjorsZijnPaard();
 ?>
   </body>
 </html>
