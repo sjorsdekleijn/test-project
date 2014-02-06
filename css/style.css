@@ -1,0 +1,19 @@
+/*
+    Document   : css/style.css
+    Created on : 2014-02-06 01:16 PM
+    Author     : sjorsdekleijn
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial";
+  font-size: 1em;
+}
