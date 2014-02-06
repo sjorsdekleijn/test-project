@@ -6,8 +6,6 @@
   echo "paard";
 
   echo "frikandel";
-<<<<<<< HEAD
-
 
   echo "dit is een andere wijziging op het bestand";
 ?>
